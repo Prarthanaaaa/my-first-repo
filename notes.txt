@@ -1,1 +1,2 @@
 This is my Git practice note
+Learning git is actually fun now
